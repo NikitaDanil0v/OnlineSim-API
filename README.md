@@ -1,3 +1,3 @@
 # OnlineSim-API
 
-API for OnlineSim service to receive and activate virtual phone numbers.
+API for https://onlinesim.ru/ service to receive and activate virtual phone numbers.
